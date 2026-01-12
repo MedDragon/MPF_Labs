@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95cbd962-e1b0-446d-acc2-83f926265dc0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/dto/BookDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/dto/BookDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/dto/CommentDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/dto/CommentDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/dto/RegisterRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/dto/RegisterRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/model/AppUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/model/AppUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/model/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/model/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/model/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/model/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/model/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/model/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/service/BookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/service/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/service/CommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/example/complexlab/core/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/core-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/core-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/repository/BookRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/repository/BookRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/repository/CommentRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/repository/CommentRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/service/BookServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/service/BookServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/service/CommentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/service/CommentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/com/example/complexlab/persistence/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/persistence-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/persistence-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/ComplexLabApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/ComplexLabApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/api/ApiExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/api/ApiExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/api/BookApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/api/BookApiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/api/CommentApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/api/CommentApiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/bootstrap/AdminUserInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/bootstrap/AdminUserInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/controller/AdminBookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/controller/AdminBookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/controller/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/controller/BookForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/controller/BookForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/security/DatabaseUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/security/DatabaseUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/com/example/complexlab/web/security/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/test-classes/com/example/complexlab/web/SmokeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/test-classes/com/example/complexlab/web/SmokeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0.0.jar.original" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MedDragon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xpertOfRock/ComplexLab.git&quot;,
+    &quot;accountId&quot;: &quot;ea6a47c7-eece-4e3e-bba5-339bddc440a8&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3898lLCqV4qafCLHfuo75I6Swom" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/IdeaProjects/Frameworks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ComplexLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ComplexLab" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="ComplexLab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ComplexLab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="ComplexLab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ComplexLabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.complexlab.web.ComplexLabApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="ComplexLab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95cbd962-e1b0-446d-acc2-83f926265dc0" name="Changes" comment="" />
+      <created>1768200575180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768200575180</updated>
+      <workItem from="1768200576253" duration="1923000" />
+      <workItem from="1768203037394" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

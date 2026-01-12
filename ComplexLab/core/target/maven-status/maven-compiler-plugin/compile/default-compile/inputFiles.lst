@@ -1,0 +1,10 @@
+/home/user/IdeaProjects/Frameworks/ComplexLab/core/src/main/java/com/example/complexlab/core/dto/BookDto.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/core/src/main/java/com/example/complexlab/core/dto/CommentDto.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/core/src/main/java/com/example/complexlab/core/dto/RegisterRequest.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/core/src/main/java/com/example/complexlab/core/model/AppUser.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/core/src/main/java/com/example/complexlab/core/model/Book.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/core/src/main/java/com/example/complexlab/core/model/Comment.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/core/src/main/java/com/example/complexlab/core/model/Role.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/core/src/main/java/com/example/complexlab/core/service/BookService.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/core/src/main/java/com/example/complexlab/core/service/CommentService.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/core/src/main/java/com/example/complexlab/core/service/UserService.java

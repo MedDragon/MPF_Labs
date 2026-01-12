@@ -1,0 +1,12 @@
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/ComplexLabApplication.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/api/ApiExceptionHandler.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/api/BookApiController.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/api/CommentApiController.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/bootstrap/AdminUserInitializer.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/controller/AdminBookController.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/controller/AuthController.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/controller/BookController.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/controller/BookForm.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/controller/HomeController.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/security/DatabaseUserDetailsService.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/web/src/main/java/com/example/complexlab/web/security/SecurityConfig.java

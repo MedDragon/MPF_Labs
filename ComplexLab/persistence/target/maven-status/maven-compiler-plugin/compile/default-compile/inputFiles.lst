@@ -1,0 +1,6 @@
+/home/user/IdeaProjects/Frameworks/ComplexLab/persistence/src/main/java/com/example/complexlab/persistence/repository/BookRepository.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/persistence/src/main/java/com/example/complexlab/persistence/repository/CommentRepository.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/persistence/src/main/java/com/example/complexlab/persistence/repository/UserRepository.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/persistence/src/main/java/com/example/complexlab/persistence/service/BookServiceImpl.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/persistence/src/main/java/com/example/complexlab/persistence/service/CommentServiceImpl.java
+/home/user/IdeaProjects/Frameworks/ComplexLab/persistence/src/main/java/com/example/complexlab/persistence/service/UserServiceImpl.java
