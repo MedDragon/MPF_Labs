@@ -6,7 +6,8 @@ import java.sql.SQLException;
 
 public class H2ConnectionFactory {
     // Використовуйте шлях до бази даних, який був у Лабі 1
-    private static final String URL = "jdbc:h2:./data/book_db;AUTO_SERVER=TRUE";
+    // Використовуйте повний шлях до папки вашого проекту
+    private static final String URL = "jdbc:h2:file:/home/user/IdeaProjects/Frameworks/MPF_Lab2/web/data/book_db;AUTO_SERVER=TRUE";
     private static final String USER = "sa";
     private static final String PASSWORD = "";
 
