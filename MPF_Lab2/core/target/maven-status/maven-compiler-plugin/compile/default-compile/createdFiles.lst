@@ -1,0 +1,6 @@
+sumdu/edu/ua/core/domain/Comment.class
+sumdu/edu/ua/core/service/CommentService.class
+sumdu/edu/ua/core/port/CommentRepositoryPort.class
+sumdu/edu/ua/core/port/CatalogRepositoryPort.class
+sumdu/edu/ua/core/service/BookService.class
+sumdu/edu/ua/core/domain/Book.class

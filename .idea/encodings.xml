@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ComplexLab/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComplexLab/persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComplexLab/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComplexLab/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComplexLab/web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab2/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab2/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab2/persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab2/persistence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab2/web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab2/web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab3/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab3/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab3/persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab3/persistence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab3/web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab3/web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab4/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab4/persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab4/web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab5/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab5/persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MPF_Lab5/web/src/main/java" charset="UTF-8" />
+  </component>
+</project>

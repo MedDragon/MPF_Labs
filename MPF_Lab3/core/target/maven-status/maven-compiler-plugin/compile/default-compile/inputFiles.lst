@@ -1,0 +1,6 @@
+/home/user/IdeaProjects/Frameworks/MPF_Lab3/core/src/main/java/sumdu/edu/ua/core/domain/Book.java
+/home/user/IdeaProjects/Frameworks/MPF_Lab3/core/src/main/java/sumdu/edu/ua/core/domain/Comment.java
+/home/user/IdeaProjects/Frameworks/MPF_Lab3/core/src/main/java/sumdu/edu/ua/core/port/CatalogRepositoryPort.java
+/home/user/IdeaProjects/Frameworks/MPF_Lab3/core/src/main/java/sumdu/edu/ua/core/port/CommentRepositoryPort.java
+/home/user/IdeaProjects/Frameworks/MPF_Lab3/core/src/main/java/sumdu/edu/ua/core/service/BookService.java
+/home/user/IdeaProjects/Frameworks/MPF_Lab3/core/src/main/java/sumdu/edu/ua/core/service/CommentService.java

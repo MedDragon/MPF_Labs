@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="web (2)" />
+        <module name="web (3)" />
+        <module name="web (1)" />
+        <module name="web (1) (com.example)" />
+        <module name="persistence (1) (com.example)" />
+        <module name="core (2)" />
+        <module name="core" />
+        <module name="core (1)" />
+        <module name="core (3)" />
+        <module name="web" />
+        <module name="core (1) (com.example)" />
+        <module name="persistence (3)" />
+        <module name="persistence" />
+        <module name="persistence (1)" />
+        <module name="persistence (2)" />
+        <module name="MPF_Lab1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="core (1)" options="-parameters" />
+      <module name="core (1) (com.example)" options="-parameters" />
+      <module name="core (2)" options="-parameters" />
+      <module name="core (3)" options="-parameters" />
+      <module name="persistence (1)" options="-parameters" />
+      <module name="persistence (1) (com.example)" options="-parameters" />
+      <module name="persistence (2)" options="-parameters" />
+      <module name="persistence (3)" options="-parameters" />
+      <module name="web (1)" options="-parameters" />
+      <module name="web (1) (com.example)" options="-parameters" />
+      <module name="web (2)" options="-parameters" />
+      <module name="web (3)" options="-parameters" />
+    </option>
+  </component>
+</project>

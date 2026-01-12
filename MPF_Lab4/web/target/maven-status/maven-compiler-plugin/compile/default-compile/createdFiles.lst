@@ -1,0 +1,7 @@
+sumdu/edu/ua/web/http/BooksServlet.class
+sumdu/edu/ua/web/AppInit.class
+sumdu/edu/ua/web/config/WebConfig.class
+sumdu/edu/ua/web/controller/CommentController.class
+sumdu/edu/ua/web/http/CommentsServlet.class
+sumdu/edu/ua/web/controller/CommentRequest.class
+sumdu/edu/ua/web/controller/BookController.class

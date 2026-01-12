@@ -1,0 +1,24 @@
+2026-01-12 05:36:30.142205+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMMENTS" not found (this database is empty); SQL statement:
+SELECT * FROM comments WHERE book_id = ? ORDER BY created_at DESC [42104-224]
+2026-01-12 05:36:33.829776+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
+2026-01-12 05:39:06.551912+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
+2026-01-12 05:41:12.065161+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
+2026-01-12 05:42:50.198554+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
+2026-01-12 05:42:51.342978+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
+2026-01-12 05:42:55.454748+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
+2026-01-12 05:42:57.086541+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]

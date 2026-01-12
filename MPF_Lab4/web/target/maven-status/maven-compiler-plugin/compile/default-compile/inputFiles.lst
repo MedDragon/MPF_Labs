@@ -1,0 +1,6 @@
+/home/user/IdeaProjects/Frameworks/MPF_Lab4/web/src/main/java/sumdu/edu/ua/web/AppInit.java
+/home/user/IdeaProjects/Frameworks/MPF_Lab4/web/src/main/java/sumdu/edu/ua/web/config/WebConfig.java
+/home/user/IdeaProjects/Frameworks/MPF_Lab4/web/src/main/java/sumdu/edu/ua/web/controller/BookController.java
+/home/user/IdeaProjects/Frameworks/MPF_Lab4/web/src/main/java/sumdu/edu/ua/web/controller/CommentController.java
+/home/user/IdeaProjects/Frameworks/MPF_Lab4/web/src/main/java/sumdu/edu/ua/web/http/BooksServlet.java
+/home/user/IdeaProjects/Frameworks/MPF_Lab4/web/src/main/java/sumdu/edu/ua/web/http/CommentsServlet.java
